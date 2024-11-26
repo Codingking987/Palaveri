@@ -1,11 +1,16 @@
-
 {
   "palaveri": {
-    "aihe": "Projektin etenemisen seuranta",
-    "osallistujien_lukumäärä": "osallistujien lukumäärä: 5"
-    "osallistujat": ["Osallistujat" "Matti Meikäläinen", "Liisa Virtanen", "Pekka Pouta", "Anna Nieminen", "Kalle Karhu"],
-    "paikka": "Neuvotteluhuone A",
-    "alkaminen": "2024-11-25T14:00:00",
-    "kesto": 2h
+    "aihe": "Aihe: Projektin etenemisen seuranta",
+    "osallistujien_lukumaara": "Osallistujien lukumäärä: 5",
+    "osallistujat": [
+      "Osallistujat: Matti Meikäläinen",
+      "Liisa Virtanen",
+      "Pekka Pouta",
+      "Anna Nieminen",
+      "Kalle Karhu"
+    ],
+    "paikka": "Paikka: Neuvotteluhuone A",
+    "alkaminen": "Alkaa: 2024-11-25T14:00:00",
+    "kesto": "Kesto: 2h"
   }
 }
